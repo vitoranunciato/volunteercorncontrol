@@ -1,0 +1,105 @@
+---
+title: "Interactions of Clethodim and Dicamba on Glyphosate-resistant Volunteer Corn Control"
+author: "Vitor M. Anunciato"
+date: '`r Sys.Date()`'
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: xaringan-themer.css
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_mono_accent(
+  base_color = "#d00000",               # bright red
+  inverse_background_color = "#f5f1e7", # dark dark blue
+  inverse_header_color = "#c7c8ca",     # light aqua green
+  inverse_text_color = "#fefdfa",       # white
+  title_slide_background_color = "var(--base)",
+  header_font_google = google_font("Raleway", "900"),
+  text_font_google   = google_font("Fanwood", "300", "300i"),
+  code_font_google   = google_font("Robot mono")
+)
+```
+
+```{r echo=FALSE, warning=FALSE}
+xaringanExtra::use_logo(
+  image_url = "https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/xaringan.png",
+  link_url = "http://slides.yihui.name/xaringan",
+  position = xaringanExtra::css_position(top = "1em", right = "1em")
+)
+```
+"Vitor Muller Anunciato; Gabrielle de Castro Macedo; Daniel Araujo Doretto; Jeff A. Golus ; Caio A. Carbonari; Greg R. Kruger."
+---
+## Introduction
+
++ Common weed escape in soybean fields in Midwest and Mid-South.
+
++ Can reduce soybean yield through competition, cause problems with harvest,
+host insects and diseases, and contaminate soybean seeds at the harvest.
+
++ Clethodim is known for its good grass control in post-emergence applications
+
++ However, antagonistic interactions have been reported when applied in tank-mixtures.
+
++ There is limited information on the efficacy of this tank-mixture on GRVC control.
+---
+## Objectives
+• To evaluate the effects of this tank-mixture on GRVC control (F1 generation)
+at different heights, with and without the use of non-ionic surfactant (NIS).
+
+---
+## Field Trial
+• Field planted at Dryland Farm. 25,000 seeds/acre (62,500 seeds/ha)
+• Plants heights: 12 in (30 cm), 24 in (60 cm) and 36 in (90 cm)
+• Split in plots with 10 x 30 ft each (3 x 10 m)
+• TTI 11002. 15 GPA (140 L/ha), 40 psi (276 KPa), 3.9 mph (6.3 km/h)
+
+---
+## Treatments
+.pull-left[
+**No R11 (NIS) in mixture 0.25% v/v**
+
+**1.** Clethodim 76 g.i.a./ha
+
+**2.** Clethodim 102 g.i.a./ha
+
+**3.** Clethodim  136 g.i.a./ha
+
+**4.** Clethodim 9 fl oz/a + Dicamba 560 g a.e./ha
+
+**5.** Clethodim 12 fl oz/a + Dicamba 560 g a.e./ha
+
+**6.** Clethodim 16 fl oz/a + Dicamba 560 g a.e./ha
+
+**7.** Dicamba 560 g a.e./ha]
+
+.pull-right[
+**With R11 (NIS) in mixture 0.25% v/v**
+
+**1.** Clethodim 76 g.i.a./ha
+
+**2.** Clethodim 102 g.i.a./ha
+
+**3.** Clethodim  136 g.i.a./ha
+
+**4.** Clethodim 9 fl oz/a + Dicamba 560 g a.e./ha
+
+**5.** Clethodim 12 fl oz/a + Dicamba 560 g a.e./ha
+
+**6.** Clethodim 16 fl oz/a + Dicamba 560 g a.e./ha
+
+**7.** Dicamba 560 g a.e./ha]
+
++ All solutions with Intact at 0.5% v/v
+
+---
+
