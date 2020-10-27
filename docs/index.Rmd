@@ -1,5 +1,5 @@
 ---
-title: "Interactions of Clethodim and Dicamba on Glyphosate-resistant Volunteer Corn Control"
+title: "Glyphosate-resistant Volunteer Corn Control"
 author: "Vitor M. Anunciato"
 date: '`r Sys.Date()`'
 output:
@@ -32,12 +32,16 @@ style_mono_accent(
 
 ```{r echo=FALSE, warning=FALSE}
 xaringanExtra::use_logo(
-  image_url = "https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/xaringan.png",
+  image_url = "https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/patlablogo.png?raw=true",
   link_url = "http://slides.yihui.name/xaringan",
-  position = xaringanExtra::css_position(top = "1em", right = "1em")
+  position = xaringanExtra::css_position(bottom = "1em", left = "1em")
 )
 ```
+
+**Interactions of Clethodim and Dicamba on Glyphosate-resistant Volunteer Corn Control**
+
 "Vitor Muller Anunciato; Gabrielle de Castro Macedo; Daniel Araujo Doretto; Jeff A. Golus ; Caio A. Carbonari; Greg R. Kruger."
+
 ---
 ## Introduction
 
@@ -58,10 +62,13 @@ at different heights, with and without the use of non-ionic surfactant (NIS).
 
 ---
 ## Field Trial
-• Field planted at Dryland Farm. 25,000 seeds/acre (62,500 seeds/ha)
-• Plants heights: 12 in (30 cm), 24 in (60 cm) and 36 in (90 cm)
-• Split in plots with 10 x 30 ft each (3 x 10 m)
-• TTI 11002. 15 GPA (140 L/ha), 40 psi (276 KPa), 3.9 mph (6.3 km/h)
++ Field planted at Dryland Farm. 25,000 seeds/acre (62,500 seeds/ha)
+
++ Plants heights: 12 in (30 cm), 24 in (60 cm) and 36 in (90 cm)
+
++ Split in plots with 10 x 30 ft each (3 x 10 m)
+
++ TTI 11002. 15 GPA (140 L/ha), 40 psi (276 KPa), 3.9 mph (6.3 km/h)
 
 ---
 ## Treatments
