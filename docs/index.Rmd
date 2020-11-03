@@ -40,33 +40,39 @@ xaringanExtra::use_logo(
 
 **Interactions of Clethodim and Dicamba on Glyphosate-resistant Volunteer Corn Control**
 
-Vitor Muller Anunciato; Gabrielle de Castro Macedo; Daniel Araujo Doretto; Jeff A. Golus ; Caio A. Carbonari; Greg R. Kruger.
+<u>Vitor Muller Anunciato</u>; Gabrielle de Castro Macedo; Daniel Araujo Doretto; Jeff A. Golus ; Caio A. Carbonari; Greg R. Kruger.
 
-<div align="center">
-<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/symptoms%20(15).jpg?raw=true" width=550 height= 450>
+.pull-left[
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/check.JPG?raw=true" width=450 height= 350>
+]
+.pull-right[
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/treated.JPG?raw=true" width=450 height= 350>
+]
 ---
 ## Introduction
 
-+ Common weed escape in soybean fields in Midwest and Mid-South.
++ Volunteer GR corn are common weed in soybean fields.
 
 + Can reduce soybean yield through competition, cause problems with harvest,
 host insects and diseases, and contaminate soybean seeds at the harvest.
 
-+ Clethodim is known for its good grass control in post-emergence applications
++ Clethodim is known for its good grass control in post-emergence applications.
 
-+ However, antagonistic interactions have been reported when applied in tank-mixtures.
++ However, antagonistic interactions have been reported when applied in tank-mixtures with synthetic auxins.
 
-+ There is limited information on the efficacy of this tank-mixture on GRVC control.
 ---
 ## Objectives
-+ To evaluate the effects of this tank-mixture on GRVC control (F1 generation)
-at different heights, with and without the use of non-ionic surfactant (NIS).
+
++ To evaluate the effects of Clethodim and Dicamba tank-mixture on GRVC control (F1 generation) at different heights, with and without the use of non-ionic surfactant (NIS).
 
 ---
 ## Field Trial
-+ Field planted at Dryland Farm. 25,000 seeds/acre (62,500 seeds/ha)
 
-+ Plants heights: 12 in (30 cm), 24 in (60 cm) and 36 in (90 cm)
++ Field planted at Dryland Farm 2019 and 2020.
+
+    + 25,000 seeds/acre (62.500 seeds/ha).
+
++ Plants heights: 12 in (30 cm), 24 in (60 cm) and 36 in (90 cm).
 
 + Split in plots with 10 x 30 ft each (3 x 10 m)
 
@@ -111,19 +117,19 @@ at different heights, with and without the use of non-ionic surfactant (NIS).
 + All solutions with Intact at 0.5% v/v
 
 ---
-## First field trial with NIS
+### First field trial with NIS - 2019
 <div align="center">
 <img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/frw.png?raw=true" width=1200 height= 500>
 ---
-## Second field trial with NIS
+### Second field trial with NIS - 2020
 <div align="center">
 <img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/srw.png?raw=true" width=1200 height= 500>
 ---
-## First field trial no NIS
+### First field trial no NIS - 2019
 <div align="center">
 <img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/fro.png?raw=true" width=1200 height= 500>
 ---
-## Second field trial no NIS
+### Second field trial no NIS - 2020
 <div align="center">
 <img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/sro.png?raw=true" width=1200 height= 500>
 ---
