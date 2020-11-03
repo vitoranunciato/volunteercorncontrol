@@ -1,3 +1,7 @@
+#Bases
+#https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html#Table_Styles
+#https://rpubs.com/yutao/444395
+
 #Load the libraries
 library(dplyr)
 library(kableExtra)

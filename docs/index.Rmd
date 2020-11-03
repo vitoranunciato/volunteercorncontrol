@@ -77,36 +77,36 @@ at different heights, with and without the use of non-ionic surfactant (NIS).
 .pull-left[
 **No R11 (NIS) in mixture 0.25% v/v**
 
-**1.** Clethodim 76 g.i.a./ha
+**1.** Clethodim 76 g ai/ha
 
-**2.** Clethodim 102 g.i.a./ha
+**2.** Clethodim 102 g ai/ha
 
-**3.** Clethodim  136 g.i.a./ha
+**3.** Clethodim  136 g ai/ha
 
-**4.** Clethodim 9 fl oz/a + Dicamba 560 g a.e./ha
+**4.** Clethodim 76 g ai/ha + Dicamba 560 g ae/ha
 
-**5.** Clethodim 12 fl oz/a + Dicamba 560 g a.e./ha
+**5.** Clethodim 102 g ai/ha + Dicamba 560 g ae/ha
 
-**6.** Clethodim 16 fl oz/a + Dicamba 560 g a.e./ha
+**6.** Clethodim 136 g ai/ha + Dicamba 560 g ae/ha
 
-**7.** Dicamba 560 g a.e./ha]
+**7.** Dicamba 560 g ae/ha]
 
 .pull-right[
 **With R11 (NIS) in mixture 0.25% v/v**
 
-**8.** Clethodim 76 g.i.a./ha
+**8.** Clethodim 76 g ai/ha
 
-**9.** Clethodim 102 g.i.a./ha
+**9.** Clethodim 102 g ai/ha
 
-**10.** Clethodim  136 g.i.a./ha
+**10.** Clethodim  136 g ai/ha
 
-**11.** Clethodim 9 fl oz/a + Dicamba 560 g a.e./ha
+**11.** Clethodim 76 g ai/ha + Dicamba 560 g ae/ha
 
-**12.** Clethodim 12 fl oz/a + Dicamba 560 g a.e./ha
+**12.** Clethodim 102 g ai/ha + Dicamba 560 g ae/ha
 
-**13.** Clethodim 16 fl oz/a + Dicamba 560 g a.e./ha
+**13.** Clethodim 136 g ai/ha + Dicamba 560 g ae/ha
 
-**14.** Dicamba 560 g a.e./ha]
+**14.** Dicamba 560 g ae/ha]
 
 + All solutions with Intact at 0.5% v/v
 
@@ -127,3 +127,15 @@ at different heights, with and without the use of non-ionic surfactant (NIS).
 <div align="center">
 <img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/sro.png?raw=true" width=1200 height= 500>
 ---
+### 30 cm
+<div align="center">
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/30cm.png?raw=true" width=1200 height= 400>
+---
+### 60 cm
+<div align="center">
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/60cm.png?raw=true" width=1200 height= 400>
+---
+### 90 cm
+<div align="center">
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/90cm.png?raw=true" width=1200 height= 400>
+
