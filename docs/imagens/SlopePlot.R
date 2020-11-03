@@ -8,6 +8,7 @@ library(ggplot2)
 library(ggrepel)
 library(kableExtra)
 library(RColorBrewer)
+library(ggpubr)
 
 ### Data ###
 data_field <- read_excel("C:/Users/vitor/Google Drive/Profissional/Vitor/PAT-Lab/CleDicamba_Daniel/analysis/data_field.xlsx", 
@@ -121,3 +122,14 @@ sro = ggplot(data = data2without, aes(x = cm, y =  mass, group =  herbicide, lab
 
 ggsave("sro.png", plot = sro, dpi = 1200)
 
+ggarrange(frw, fro, srw, sro, common.legend = TRUE)
+
+col5 = ggarrange(frw + theme(title = element_blank(), axis.title.y = element_blank(), axis.title.x = element_blank()), 
+                 fro + theme(title = element_blank(), axis.title.x = element_blank(), axis.title.y = element_blank()), 
+                 srw + theme(title = element_blank(), axis.title.y = element_blank(), axis.title.x = element_blank()), 
+                 sro + theme(title = element_blank(), axis.title.y = element_blank(), axis.title.x = element_blank()), 
+                 common.legend = TRUE, ncol = 2, nrow = 2, labels = c("1st with NIS", "1st withou NIS", "2st with NIS", "2st withou NIS"), hjust = -8, vjust = 2)
+col = annotate_figure(col5, left = text_grob("% of mass in realtion to the check (%)", color = "black", rot = 90), bottom = text_grob("Heigth when sprayed (cm)"))
+ggexport(filename = "test.pdf")
+
+ggexport(filename = "all.png", res = 1200)

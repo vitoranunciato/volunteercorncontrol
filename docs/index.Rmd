@@ -43,7 +43,7 @@ xaringanExtra::use_logo(
 Vitor Muller Anunciato; Gabrielle de Castro Macedo; Daniel Araujo Doretto; Jeff A. Golus ; Caio A. Carbonari; Greg R. Kruger.
 
 <div align="center">
-<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/symptoms%20(15).jpg?raw=true" width=650 height= 500>
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/symptoms%20(15).jpg?raw=true" width=550 height= 450>
 ---
 ## Introduction
 
@@ -70,7 +70,7 @@ at different heights, with and without the use of non-ionic surfactant (NIS).
 
 + Split in plots with 10 x 30 ft each (3 x 10 m)
 
-+ TTI 11002. 15 GPA (140 L/ha), 40 psi (276 KPa), 3.9 mph (6.3 km/h)
++ TTI 11002. 15 GPA (140 L/ha), 40 psi (276 KPa), 3.9 mph (1.74 m/s)
 
 ---
 ## Treatments
@@ -111,4 +111,19 @@ at different heights, with and without the use of non-ionic surfactant (NIS).
 + All solutions with Intact at 0.5% v/v
 
 ---
-
+## First field trial with NIS
+<div align="center">
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/frw.png?raw=true" width=1200 height= 500>
+---
+## Second field trial with NIS
+<div align="center">
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/srw.png?raw=true" width=1200 height= 500>
+---
+## First field trial no NIS
+<div align="center">
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/fro.png?raw=true" width=1200 height= 500>
+---
+## Second field trial no NIS
+<div align="center">
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/sro.png?raw=true" width=1200 height= 500>
+---
