@@ -11,8 +11,7 @@ library(RColorBrewer)
 library(ggpubr)
 
 ### Data ###
-data_field <- read_excel("C:/Users/vitor/Google Drive/Profissional/Vitor/PAT-Lab/CleDicamba_Daniel/analysis/data_field.xlsx", 
-                         sheet = "r data")
+data_field = read.csv("C:/Users/vitor/Google Drive/Presentations/Control of volunteer corn/volunteercorncontrol/docs/data/control.csv")
 
 
 df.summary <- data_field %>%
@@ -39,7 +38,7 @@ frw = ggplot(data = data1with, aes(x = cm, y =  mass, group =  herbicide, label 
   labs(
     title = "Effect of Dicamba and Clethodim in GR Volunteer Corn",
     subtitle = "(Non Ionic Surfactant add to tank mixture 0.25% v/v)",
-    y = "% of mass in realtion to the check (%)",
+    y = "% of mass in relation to the check (%)",
     x = "Heigth when sprayed (cm)",
     caption = "First field trial 2019."
     
@@ -65,7 +64,7 @@ srw = ggplot(data = data2with, aes(x = cm, y =  mass, group =  herbicide, label 
   labs(
     title = "Effect of Dicamba and Clethodim in GR Volunteer Corn",
     subtitle = "(Non Ionic Surfactant add to tank mixture 0.25% v/v)",
-    y = "% of mass in realtion to the check (%)",
+    y = "% of mass in relation to the check (%)",
     x = "Heigth when sprayed (cm)",
     caption = "Second field trial 2020."
     
@@ -90,7 +89,7 @@ fro = ggplot(data = data1without, aes(x = cm, y =  mass, group =  herbicide, lab
   labs(
     title = "Effect of Dicamba and Clethodim in GR Volunteer Corn",
     subtitle = "(Without Non Ionic Surfactant)",
-    y = "% of mass in realtion to the check (%)",
+    y = "% of mass in relation to the check (%)",
     x = "Heigth when sprayed (cm)",
     caption = "First field trial 2019."
       )
@@ -115,21 +114,11 @@ sro = ggplot(data = data2without, aes(x = cm, y =  mass, group =  herbicide, lab
   labs(
     title = "Effect of Dicamba and Clethodim in GR Volunteer Corn",
     subtitle = "(Without Non Ionic Surfactant)",
-    y = "% of mass in realtion to the check (%)",
+    y = "% of mass in relation to the check (%)",
     x = "Heigth when sprayed (cm)",
     caption = "Second field trial 2020."
     )
 
 ggsave("sro.png", plot = sro, dpi = 1200)
 
-ggarrange(frw, fro, srw, sro, common.legend = TRUE)
 
-col5 = ggarrange(frw + theme(title = element_blank(), axis.title.y = element_blank(), axis.title.x = element_blank()), 
-                 fro + theme(title = element_blank(), axis.title.x = element_blank(), axis.title.y = element_blank()), 
-                 srw + theme(title = element_blank(), axis.title.y = element_blank(), axis.title.x = element_blank()), 
-                 sro + theme(title = element_blank(), axis.title.y = element_blank(), axis.title.x = element_blank()), 
-                 common.legend = TRUE, ncol = 2, nrow = 2, labels = c("1st with NIS", "1st withou NIS", "2st with NIS", "2st withou NIS"), hjust = -8, vjust = 2)
-col = annotate_figure(col5, left = text_grob("% of mass in realtion to the check (%)", color = "black", rot = 90), bottom = text_grob("Heigth when sprayed (cm)"))
-ggexport(filename = "test.pdf")
-
-ggexport(filename = "all.png", res = 1200)

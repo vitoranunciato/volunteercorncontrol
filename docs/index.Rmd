@@ -81,7 +81,7 @@ host insects and diseases, and contaminate soybean seeds at the harvest.
 ---
 ## Treatments
 .pull-left[
-**No R11 (NIS) in mixture 0.25% v/v**
+**No R11 (NIS) in mixture**
 
 **1.** Clethodim 76 g ai/ha
 
@@ -144,4 +144,7 @@ host insects and diseases, and contaminate soybean seeds at the harvest.
 ### 90 cm
 <div align="center">
 <img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/90cm.png?raw=true" width=1200 height= 400>
+---
+## Conclusion
+
 
