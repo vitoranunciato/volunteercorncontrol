@@ -1,5 +1,5 @@
 ---
-title: "Glyphosate-resistant Volunteer Corn Control"
+title: "GR Volunteer Corn Control with mixture of Clethodim and Dicamba"
 author: "Vitor M. Anunciato"
 date: '`r Sys.Date()`'
 output:

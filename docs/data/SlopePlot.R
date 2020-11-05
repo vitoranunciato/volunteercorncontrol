@@ -38,7 +38,8 @@ frw = ggplot(data = data1with, aes(x = cm, y =  mass, group =  herbicide, label 
   labs(
     title = "Effect of Dicamba and Clethodim in GR Volunteer Corn",
     subtitle = "(Non Ionic Surfactant add to tank mixture 0.25% v/v)",
-    y = "% of mass in relation to the check (%)",
+    y = "Control (%)",
+    colour = "Treatment",
     x = "Heigth when sprayed (cm)",
     caption = "First field trial 2019."
     
@@ -64,7 +65,8 @@ srw = ggplot(data = data2with, aes(x = cm, y =  mass, group =  herbicide, label 
   labs(
     title = "Effect of Dicamba and Clethodim in GR Volunteer Corn",
     subtitle = "(Non Ionic Surfactant add to tank mixture 0.25% v/v)",
-    y = "% of mass in relation to the check (%)",
+    y = "Control (%)",
+    colour = "Treatment",
     x = "Heigth when sprayed (cm)",
     caption = "Second field trial 2020."
     
@@ -89,7 +91,8 @@ fro = ggplot(data = data1without, aes(x = cm, y =  mass, group =  herbicide, lab
   labs(
     title = "Effect of Dicamba and Clethodim in GR Volunteer Corn",
     subtitle = "(Without Non Ionic Surfactant)",
-    y = "% of mass in relation to the check (%)",
+    y = "Control (%)",
+    colour = "Treatment",
     x = "Heigth when sprayed (cm)",
     caption = "First field trial 2019."
       )
@@ -114,7 +117,8 @@ sro = ggplot(data = data2without, aes(x = cm, y =  mass, group =  herbicide, lab
   labs(
     title = "Effect of Dicamba and Clethodim in GR Volunteer Corn",
     subtitle = "(Without Non Ionic Surfactant)",
-    y = "% of mass in relation to the check (%)",
+    y = "Control (%)",
+    colour = "Treatment",
     x = "Heigth when sprayed (cm)",
     caption = "Second field trial 2020."
     )
