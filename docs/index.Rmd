@@ -114,7 +114,7 @@ host insects and diseases, and contaminate soybean seeds at the harvest.
 
 **14.** Dicamba 560 g ae/ha]
 
-+ All solutions with Intact at 0.5% v/v
++ **All solutions with Intact at 0.5% v/v**
 
 ---
 ### First field trial with NIS - 2019
@@ -146,5 +146,9 @@ host insects and diseases, and contaminate soybean seeds at the harvest.
 <img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/90cm.png?raw=true" width=1200 height= 400>
 ---
 ## Conclusion
++ The mixture tends to be antagonistic independent of the presence or absence of the NIS, as well the control doesn't change.
 
++ The highest dose of 136 g ai/ha of clethodim in a mixture with 560 g ae/ha of dicamba presents satisfactory control ±85% when the plants are treated at 30 cm.
+
++ Results showed that cutting the rate of clethodim is not a good strategy for management of GRVC and timeliness is critical for the success of this tool in the field, because GRVC is not a conventional weed. 
 
