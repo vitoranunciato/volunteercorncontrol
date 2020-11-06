@@ -68,9 +68,9 @@ host insects and diseases, and contaminate soybean seeds at the harvest.
 ---
 ## Field Trial
 
-+ Field planted at Dryland Farm, North Platte - NE, University of Nebraska Lincoln/WRECC property, in **2019** and **2020**.
++ Field planted at **Dryland Farm**, North Platte - NE, University of Nebraska Lincoln/WRECC property, in **2019** and **2020**.
 
-    + 25,000 seeds/acre (62.500 seeds/ha).
+    + 62.500 seeds/ha (25,000 seeds/acre).
 
 + Plants heights: **30 cm** (12 in), **60 cm** (24 in) and **90 cm** (72 in).
 
@@ -117,7 +117,7 @@ host insects and diseases, and contaminate soybean seeds at the harvest.
 
 **14.** Dicamba 560 g ae/ha]
 
-+ **All solutions with Intact at 0.5% v/v**
++ **All solutions with DRA (Intact) at 0.5% v/v**
 ---
 ## Statistical analysis
 
