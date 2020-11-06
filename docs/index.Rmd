@@ -154,7 +154,7 @@ host insects and diseases, and contaminate soybean seeds at the harvest.
 <img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/90cm.png?raw=true" width=1200 height= 400>
 ---
 ## Conclusion
-+ The mixture tends to be antagonistic independent of the presence or absence of the NIS, as well the control doesn't change.
++ The mixture tends to be antagonistic independent of the presence or absence of the NIS, the NIS tends to decrease the difference between the doses of clethodim.
 
 + The highest dose of 136 g ai/ha of clethodim in a mixture with 560 g ae/ha of dicamba presents satisfactory control ±85% when the plants are treated at 30 cm.
 
