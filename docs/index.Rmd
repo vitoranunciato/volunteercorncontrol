@@ -43,10 +43,10 @@ xaringanExtra::use_logo(
 <u>Vitor Muller Anunciato</u>, Gabrielle de Castro Macedo, Daniel Araujo Doretto, Jeff A. Golus, Caio A. Carbonari, Greg R. Kruger.
 
 .pull-left[
-<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/check.JPG?raw=true" width=450 height= 350>
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/check.JPG?raw=true" width=450 height= 320>
 ]
 .pull-right[
-<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/treated.JPG?raw=true" width=450 height= 350>
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/treated.JPG?raw=true" width=450 height= 320>
 ]
 ---
 ## Introduction
@@ -56,9 +56,9 @@ xaringanExtra::use_logo(
 + Can reduce soybean yield through competition, cause problems with harvest,
 host insects and diseases, and contaminate soybean seeds at the harvest.
 
-+ **Clethodim** (Group 1) is known for its good grass control in post-emergence applications.
++ **Clethodim** (Group 1) is known for its good grass control in post-emergence applications. However, **antagonistic interactions** have been reported when applied in **tank-mixtures with synthetic auxins** (Group 4).
 
-+ However, **antagonistic interactions** have been reported when applied in **tank-mixtures with synthetic auxins** (Group 4).
++ Clethodim and Dicamba mixture are utilized to **increase the spectrum of weeds control**.
 
 ---
 ## Objectives
