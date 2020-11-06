@@ -124,15 +124,6 @@ host insects and diseases, and contaminate soybean seeds at the harvest.
 + Biomass data were subjected to **ANOVA test** and means were separated using **Fisher’s Protected LSD test** with **Tukey adjustment at α = 0.05**. 
 
 + **Colby’s Equation** was used to determine the type of interaction occurred, and the difference between the estimated and obseverd control values was compared by **t test α = 0.05**.
-
----
-### First field trial with NIS - 2019
-<div align="center">
-<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/frw.png?raw=true" width=1200 height= 500>
----
-### Second field trial with NIS - 2020
-<div align="center">
-<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/srw.png?raw=true" width=1200 height= 500>
 ---
 ### First field trial no NIS - 2019
 <div align="center">
@@ -141,6 +132,14 @@ host insects and diseases, and contaminate soybean seeds at the harvest.
 ### Second field trial no NIS - 2020
 <div align="center">
 <img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/sro.png?raw=true" width=1200 height= 500>
+---
+### First field trial with NIS - 2019
+<div align="center">
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/frw.png?raw=true" width=1200 height= 500>
+---
+### Second field trial with NIS - 2020
+<div align="center">
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/srw.png?raw=true" width=1200 height= 500>
 ---
 ### 30 cm
 <div align="center">
