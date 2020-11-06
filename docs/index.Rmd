@@ -40,7 +40,7 @@ xaringanExtra::use_logo(
 
 **Interactions of Clethodim and Dicamba on Glyphosate-resistant Volunteer Corn Control**
 
-<u>Vitor Muller Anunciato</u>; Gabrielle de Castro Macedo; Daniel Araujo Doretto; Jeff A. Golus ; Caio A. Carbonari; Greg R. Kruger.
+<u>Vitor Muller Anunciato</u>, Gabrielle de Castro Macedo, Daniel Araujo Doretto, Jeff A. Golus, Caio A. Carbonari, Greg R. Kruger.
 
 .pull-left[
 <img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/check.JPG?raw=true" width=450 height= 350>
@@ -154,9 +154,15 @@ host insects and diseases, and contaminate soybean seeds at the harvest.
 <img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/90cm.png?raw=true" width=1200 height= 400>
 ---
 ## Conclusion
-+ The mixture tends to be antagonistic independent of the presence or absence of the NIS, the NIS tends to decrease the difference between the doses of clethodim.
++ The mixture tends to be antagonistic independent of the presence or absence of the NIS, the NIS tends to decrease the difference between the doses of clethodim in plants with 30cm.
 
 + The highest dose of 136 g ai/ha of clethodim in a mixture with 560 g ae/ha of dicamba presents satisfactory control ±85% when the plants are treated at 30 cm.
 
 + Results showed that cutting the rate of clethodim is not a good strategy for management of GRVC and timeliness is critical for the success of this tool in the field, because GRVC is not a conventional weed. 
+---
+## Take-Away
+The best results for controlling GR volunteer corn are obtained in plants up to 30 cm high, and if a tank mix with dicamba is used, the highest dose of clethodim should be used to compensate for the antagonistic effect.
+
+<div align="right">
+**Thank you**
 
