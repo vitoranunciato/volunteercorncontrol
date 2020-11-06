@@ -172,7 +172,7 @@ host insects and diseases, and contaminate soybean seeds at the harvest.
 ---
 ## Future studies
 
-Looking forward if other adjuvants can neither decrease dicamba broadleaves control nor clethodim grasses control but help to overcome antagonism in that tank-mixture and therefore improve GRVC control on dicamba-tolerant soybean fields.
+Looking forward **if other adjuvants** can neither decrease dicamba broadleaves control nor clethodim grasses control but help to **overcome antagonism** in that **tank-mixture** and therefore improve GRVC control on dicamba-tolerant soybean fields.
 
 ---
 ## Take-Away
