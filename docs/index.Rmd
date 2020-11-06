@@ -56,7 +56,7 @@ xaringanExtra::use_logo(
 + Can reduce soybean yield through competition, cause problems with harvest,
 host insects and diseases, and contaminate soybean seeds at the harvest.
 
-+ **Clethodim** (Group 1) is known for its good grass control in post-emergence applications. However, **antagonistic interactions** have been reported when applied in **tank-mixtures with synthetic auxins** (Group 4).
++ **Clethodim** (WSSA Group 1) is known for its good grass control in post-emergence applications. However, **antagonistic interactions** have been reported when applied in **tank-mixtures with synthetic auxins** (WSSA Group 4).
 
 + Clethodim and Dicamba mixture are utilized to **increase the spectrum of weeds control**.
 
