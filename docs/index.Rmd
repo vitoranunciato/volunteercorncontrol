@@ -141,14 +141,15 @@ host insects and diseases, and contaminate soybean seeds at the harvest.
 <div align="center">
 <img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/srw.png?raw=true" width=1200 height= 500>
 ---
-.pull-left[
-**Clethodim 102 g ai/ha (plants 60cm)**
-<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/check.JPG?raw=true" width=450 height= 320>
-]
-.pull-right[
-**Clethodim 102 g ai/ha + Dicamba 560 g ae/ha (plants 60cm)**
-<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/treated.JPG?raw=true" width=450 height= 320>
-]
+### Visual example - plants 60 cm.
+**Clethodim 102 g ai/ha**
+<div align="center">
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/c102_60cm.JPG?raw=true" width=600 height= 400>
+---
+### Visual example - plants 60 cm.
+**Clethodim 102 g ai/ha + Dicamba 560 g ae/ha**
+<div align="center">
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/cd102_60cm.JPG?raw=true" width=600 height= 400>
 ---
 ### 30 cm
 <div align="center">
