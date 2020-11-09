@@ -40,7 +40,7 @@ xaringanExtra::use_logo(
 
 **Interactions of Clethodim and Dicamba on Glyphosate-resistant Volunteer Corn Control**
 
-<u>Vitor Muller Anunciato</u>, Gabrielle de Castro Macedo, Daniel Araujo Doretto, Jeff A. Golus, Caio A. Carbonari, Greg R. Kruger.
+<u>Vitor Muller Anunciato</u>, Gabrielle de Castro Macedo, Daniel Araujo Doretto, Jeff A. Golus, Caio A. Carbonari, Greg R. Kruger
 
 .pull-left[
 <img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/check.JPG?raw=true" width=450 height= 320>
@@ -65,10 +65,13 @@ host insects and diseases, and contaminate soybean seeds at the harvest.
 
 + To evaluate the effects of Clethodim and Dicamba tank-mixture on GRVC control (F1 generation) at different heights, with and without the use of non-ionic surfactant (NIS).
 
+## Hyphotesis
++ Non-ionic surfactant (NIS) and the height of the plant when sprayed can enhance the control of GRVC when treated with the mixture of clethodim and dicamba.
+
 ---
 ## Field Trial
 
-+ Field planted at **Dryland Farm**, North Platte - NE, University of Nebraska Lincoln/WREECC property, in **2019** and **2020**.
++ Field planted at **Dryland Farm**, North Platte - NE, University of Nebraska-Lincoln/WREECC property, in **2019** and **2020**.
 
     + 62.500 seeds/ha (25,000 seeds/acre).
 
