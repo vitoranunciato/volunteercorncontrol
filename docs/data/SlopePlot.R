@@ -44,7 +44,7 @@ frw = ggplot(data = data1with, aes(x = cm, y =  mass, group =  herbicide, label 
     caption = "First field trial 2019."
     
   )
-ggsave("frw.png", plot = frw, dpi = 1200)
+ggsave("frw.png", plot = frw, dpi = 1200, width = 30, height = 20, units = "cm")
 
 
 
@@ -71,7 +71,7 @@ srw = ggplot(data = data2with, aes(x = cm, y =  mass, group =  herbicide, label 
     caption = "Second field trial 2020."
     
   )
-ggsave("srw.png", plot = srw, dpi = 1200)
+ggsave("srw.png", plot = srw, dpi = 1200, width = 30, height = 20, units = "cm")
 
 
 ## First run without NIS ##
@@ -97,7 +97,7 @@ fro = ggplot(data = data1without, aes(x = cm, y =  mass, group =  herbicide, lab
     caption = "First field trial 2019."
       )
 
-ggsave("fro.png", plot = fro, dpi = 1200)
+ggsave("fro.png", plot = fro, dpi = 1200, width = 30, height = 20, units = "cm")
 
 
 ## Second run without NIS ##
@@ -123,6 +123,6 @@ sro = ggplot(data = data2without, aes(x = cm, y =  mass, group =  herbicide, lab
     caption = "Second field trial 2020."
     )
 
-ggsave("sro.png", plot = sro, dpi = 1200)
+ggsave("sro.png", plot = sro, dpi = 1200, width = 30, height = 20, units = "cm")
 
 
