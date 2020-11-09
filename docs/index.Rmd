@@ -80,12 +80,14 @@ host insects and diseases, and contaminate soybean seeds at the harvest.
 + Those fields study was conducted in **randomized complete block design** in a factorial treatment arrangement with 4 replications and 2 experimental runs.
     + Split in plots with 3 x 10 m (10 x 30 ft each).
 
+---
 ## Materials and Methods
 
 + The treatments was applied with **backpack CO<sub>2</sub> sprayer** with 6 nozzles
 
     + **TTI 11002**. 15 GPA (140 L/ha), 40 psi (276 KPa), 3.9 mph (1.74 m/s)
-
+<div align="center">
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/spray.jpg?raw=true" width=1200 height= 400>
 ---
 ## Treatments
 .pull-left[
