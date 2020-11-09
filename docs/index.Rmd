@@ -69,16 +69,18 @@ host insects and diseases, and contaminate soybean seeds at the harvest.
 + Non-ionic surfactant (NIS) and the height of the plant when sprayed can enhance the control of GRVC when treated with the mixture of clethodim and dicamba.
 
 ---
-## Field Trial
+## Study desing 
 
 + Field planted at **Dryland Farm**, North Platte - NE, University of Nebraska-Lincoln/WREECC property, in **2019** and **2020**.
 
-    + 62.500 seeds/ha (25,000 seeds/acre).
+    + 62,500 seeds/ha (25,000 seeds/acre).
 
 + Plants heights: **30 cm** (12 in), **60 cm** (24 in) and **90 cm** (72 in).
 
 + Those fields study was conducted in **randomized complete block design** in a factorial treatment arrangement with 4 replications and 2 experimental runs.
     + Split in plots with 3 x 10 m (10 x 30 ft each).
+
+## Materials and Methods
 
 + The treatments was applied with **backpack CO<sub>2</sub> sprayer** with 6 nozzles
 
@@ -124,9 +126,9 @@ host insects and diseases, and contaminate soybean seeds at the harvest.
 ---
 ## Statistical analysis
 
-+ Biomass data were subjected to **ANOVA test** and means were separated using **Fisher’s Protected LSD test** with **Tukey adjustment at α = 0.05**. 
++ Biomass data were subjected to **ANOVA test** and means were separated using **Fisher’s LSD test** with **post-hoc test Tukey at α = 0.05**. 
 
-+ **Colby’s Equation** was used to determine the type of interaction occurred, and the difference between the estimated and obseverd control values was compared by **t test α = 0.05**.
++ **Colby’s Equation** was used to determine the type of interaction occurred, and the difference between the estimated and obseverd control values was compared by **t student test α = 0.05**.
 ---
 ### First field trial no NIS - 2019
 <div align="center">
@@ -144,12 +146,12 @@ host insects and diseases, and contaminate soybean seeds at the harvest.
 <div align="center">
 <img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/srw.png?raw=true" width=1200 height= 500>
 ---
-### Visual example - plants 60 cm 28DAT.
+### Example - plants 60 cm 28DAT.
 **Clethodim 102 g ai/ha**
 <div align="center">
 <img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/c102_60cm.JPG?raw=true" width=450 height= 500>
 ---
-### Visual example - plants 60 cm 28DAT.
+### Example - plants 60 cm 28DAT.
 **Clethodim 102 g ai/ha + Dicamba 560 g ae/ha**
 <div align="center">
 <img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/cd102_60cm.JPG?raw=true" width=450 height= 500>
