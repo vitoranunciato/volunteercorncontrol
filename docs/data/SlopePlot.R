@@ -33,18 +33,14 @@ frw = ggplot(data = data1with, aes(x = cm, y =  mass, group =  herbicide, label 
   geom_point(aes(colour =  herbicide), size = 3) +
   geom_label_repel() + 
   scale_colour_manual(values = c("#B2182B", "#D6604D", "#F4A582", "#E0E0E0", "#BABABA", "#878787", "#4D4D4D"
-)) + theme_classic() +
+)) + theme_classic() + theme(title=element_text(size=30),
+                             axis.text = element_text(size=30),
+                             legend.text = element_text(size=30))+
   ylim(0,100)+
-  labs(
-    title = "Effect of Dicamba and Clethodim in GR Volunteer Corn",
-    subtitle = "(Non Ionic Surfactant add to tank mixture 0.25% v/v)",
-    y = "Control (%)",
+  labs(y = "Biomass control (%)",
     colour = "Treatment",
-    x = "Heigth when sprayed (cm)",
-    caption = "First field trial 2019."
-    
-  )
-ggsave("frw.png", plot = frw, dpi = 1200, width = 30, height = 20, units = "cm")
+    x = "Plant heigth at application (cm)")
+ggsave("frw.png", plot = frw, dpi = 1200, width = 40, height = 20, units = "cm")
 
 
 
@@ -60,18 +56,14 @@ srw = ggplot(data = data2with, aes(x = cm, y =  mass, group =  herbicide, label 
   geom_point(aes(colour =  herbicide), size = 3) +
   geom_label_repel() + 
   scale_colour_manual(values = c("#B2182B", "#D6604D", "#F4A582", "#E0E0E0", "#BABABA", "#878787", "#4D4D4D"
-  )) + theme_classic() +
+  )) + theme_classic() + theme(title=element_text(size=30),
+axis.text = element_text(size=30),
+legend.text = element_text(size=30))+
   ylim(0,100)+
-  labs(
-    title = "Effect of Dicamba and Clethodim in GR Volunteer Corn",
-    subtitle = "(Non Ionic Surfactant add to tank mixture 0.25% v/v)",
-    y = "Control (%)",
+  labs(y = "Biomass Control (%)",
     colour = "Treatment",
-    x = "Heigth when sprayed (cm)",
-    caption = "Second field trial 2020."
-    
-  )
-ggsave("srw.png", plot = srw, dpi = 1200, width = 30, height = 20, units = "cm")
+    x = "Plant heigth at application (cm)")
+ggsave("srw.png", plot = srw, dpi = 1200, width = 40, height = 20, units = "cm")
 
 
 ## First run without NIS ##
@@ -86,18 +78,15 @@ fro = ggplot(data = data1without, aes(x = cm, y =  mass, group =  herbicide, lab
   geom_point(aes(colour =  herbicide), size = 3) +
   geom_label_repel() + 
   scale_colour_manual(values = c("#B2182B", "#D6604D", "#F4A582", "#E0E0E0", "#BABABA", "#878787", "#4D4D4D"
-  )) + theme_classic() +
+  )) + theme_classic() + theme(title=element_text(size=30),
+                               axis.text = element_text(size=30),
+                               legend.text = element_text(size=30))+
   ylim(0,100)+
-  labs(
-    title = "Effect of Dicamba and Clethodim in GR Volunteer Corn",
-    subtitle = "(Without Non Ionic Surfactant)",
-    y = "Control (%)",
+  labs(y = "Biomass control (%)",
     colour = "Treatment",
-    x = "Heigth when sprayed (cm)",
-    caption = "First field trial 2019."
-      )
+    x = "Plant heigth at application (cm)")
 
-ggsave("fro.png", plot = fro, dpi = 1200, width = 30, height = 20, units = "cm")
+ggsave("fro.png", plot = fro, dpi = 1200, width = 40, height = 20, units = "cm")
 
 
 ## Second run without NIS ##
@@ -112,17 +101,17 @@ sro = ggplot(data = data2without, aes(x = cm, y =  mass, group =  herbicide, lab
   geom_point(aes(colour =  herbicide), size = 3) +
   geom_label_repel() + 
   scale_colour_manual(values = c("#B2182B", "#D6604D", "#F4A582", "#E0E0E0", "#BABABA", "#878787", "#4D4D4D"
-  )) + theme_classic() +
+  )) + theme_classic() + theme(title=element_text(size=30),
+                               axis.text = element_text(size=30),
+                               legend.text = element_text(size=30))+
   ylim(0,100)+
   labs(
     title = "Effect of Dicamba and Clethodim in GR Volunteer Corn",
     subtitle = "(Without Non Ionic Surfactant)",
-    y = "Control (%)",
+    y = "Biomass control (%)",
     colour = "Treatment",
-    x = "Heigth when sprayed (cm)",
-    caption = "Second field trial 2020."
-    )
+    x = "Plant heigth at application (cm)")
 
-ggsave("sro.png", plot = sro, dpi = 1200, width = 30, height = 20, units = "cm")
+ggsave("sro.png", plot = sro, dpi = 1200, width = 40, height = 20, units = "cm")
 
 
