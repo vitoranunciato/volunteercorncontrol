@@ -105,10 +105,7 @@ sro = ggplot(data = data2without, aes(x = cm, y =  mass, group =  herbicide, lab
                                axis.text = element_text(size=30),
                                legend.text = element_text(size=30))+
   ylim(0,100)+
-  labs(
-    title = "Effect of Dicamba and Clethodim in GR Volunteer Corn",
-    subtitle = "(Without Non Ionic Surfactant)",
-    y = "Biomass control (%)",
+  labs(y = "Biomass control (%)",
     colour = "Treatment",
     x = "Plant heigth at application (cm)")
 
