@@ -15,11 +15,11 @@ corn30 %>%
   mutate(
   Average = color_bar("lightgreen")(Average),
   Interaction.1 = cell_spec(Interaction.1, "html", 
-                            color = ifelse(Interaction.1 == "ANTAGONIC", "#d00000", 
+                            color = ifelse(Interaction.1 == "ANTAGONISTIC", "#d00000", 
                                            ifelse(Interaction.1 == "SYNERGIC", "lightgreen", 
                                                   "black"))),
   Interaction.2 = cell_spec(Interaction.2, "html", 
-                            color = ifelse(Interaction.2 == "ANTAGONIC", "#d00000", 
+                            color = ifelse(Interaction.2 == "ANTAGONISTIC", "#d00000", 
                                            ifelse(Interaction.2 == "SYNERGIC", "lightgreen", 
                                                   "black"))))%>%
   kable(escape = F, align = "c",  
@@ -40,8 +40,8 @@ corn30 %>%
   pack_rows("No NIS", 1, 3) %>%
   pack_rows("Add+ NIS*", 4, 6) %>%
   add_header_above(c("Treatment" = 2, "Field 2019" = 4, "Field 2020" = 4, " " = 1 ))%>%
-  footnote(general = "The numbers in front of the herbicide name represent the dose of the herbicide in g ai or g ae by herctare.",
-           symbol = c("Add NIS(R11) dose 0.25% v/v."))%>%
+  footnote(general = "The numbers in behind of the herbicide name represent the dose of the herbicide in g ai or g ae by hectare.",
+           symbol = c("Add NIS dose 0.25% v/v."))%>%
   save_kable("30cm.png", zoom = 3)
 
 
@@ -52,11 +52,11 @@ corn60 %>%
   mutate(
     Average = color_bar("lightgreen")(Average),
     Interaction.1 = cell_spec(Interaction.1, "html", 
-                              color = ifelse(Interaction.1 == "ANTAGONIC", "#d00000", 
+                              color = ifelse(Interaction.1 == "ANTAGONISTIC", "#d00000", 
                                              ifelse(Interaction.1 == "SYNERGIC", "lightgreen", 
                                                     "black"))),
     Interaction.2 = cell_spec(Interaction.2, "html", 
-                              color = ifelse(Interaction.2 == "ANTAGONIC", "#d00000", 
+                              color = ifelse(Interaction.2 == "ANTAGONISTIC", "#d00000", 
                                              ifelse(Interaction.2 == "SYNERGIC", "lightgreen", 
                                                     "black"))))%>%
   kable(escape = F, align = "c",  
@@ -77,8 +77,8 @@ corn60 %>%
   pack_rows("No NIS", 1, 3) %>%
   pack_rows("Add+ NIS*", 4, 6) %>%
   add_header_above(c("Treatment" = 2, "Field 2019" = 4, "Field 2020" = 4, " " = 1 ))%>%
-  footnote(general = "The numbers in front of the herbicide name represent the dose of the herbicide in g ai or g ae by herctare.",
-           symbol = c("Add NIS(R11) dose 0.25% v/v."))%>%
+  footnote(general = "The numbers in behind of the herbicide name represent the dose of the herbicide in g ai or g ae by hectare.",
+           symbol = c("Add NIS dose 0.25% v/v."))%>%
 save_kable("60cm.png", zoom = 3)
 
 # 90 cm
@@ -88,11 +88,11 @@ corn90 %>%
   mutate(
     Average = color_bar("lightgreen")(Average),
     Interaction.1 = cell_spec(Interaction.1, "html", 
-                              color = ifelse(Interaction.1 == "ANTAGONIC", "#d00000", 
+                              color = ifelse(Interaction.1 == "ANTAGONISTIC", "#d00000", 
                                              ifelse(Interaction.1 == "SYNERGIC", "lightgreen", 
                                                     "black"))),
     Interaction.2 = cell_spec(Interaction.2, "html", 
-                              color = ifelse(Interaction.2 == "ANTAGONIC", "#d00000", 
+                              color = ifelse(Interaction.2 == "ANTAGONISTIC", "#d00000", 
                                              ifelse(Interaction.2 == "SYNERGIC", "lightgreen", 
                                                     "black"))))%>%
   kable(escape = F, align = "c",  
@@ -113,6 +113,6 @@ corn90 %>%
   pack_rows("No NIS", 1, 3) %>%
   pack_rows("Add+ NIS*", 4, 6) %>%
   add_header_above(c("Treatment" = 2, "Field 2019" = 4, "Field 2020" = 4, " " = 1 ))%>%
-  footnote(general = "The numbers in front of the herbicide name represent the dose of the herbicide in g ai or g ae by herctare.",
-           symbol = c("Add NIS(R11) dose 0.25% v/v."))%>%
+  footnote(general = "The numbers in behind of the herbicide name represent the dose of the herbicide in g ai or g ae by hectare.",
+           symbol = c("Add NIS dose 0.25% v/v."))%>%
 save_kable("90cm.png", zoom = 3)

@@ -51,29 +51,31 @@ xaringanExtra::use_logo(
 ---
 ## Introduction
 
-+ **Glyphosate Resistant Volunteer Corn** (GRVC) are common weed in soybean fields.
++ **Glyphosate Resistant Volunteer Corn** (GRVC) is a common weed in soybean fields.
 
 + Can reduce soybean yield through competition, cause problems with harvest,
 host insects and diseases, and contaminate soybean seeds at the harvest.
 
-+ **Clethodim** (WSSA Group 1) is known for its good grass control in post-emergence applications. However, **antagonistic interactions** have been reported when applied in **tank-mixtures with synthetic auxins** (WSSA Group 4).
++ **Clethodim** (WSSA Group 1) used in grass control in postemergence applications. However, **antagonistic interactions** have been reported when applied in **tank-mixtures with synthetic auxins** (WSSA Group 4).
 
-+ Clethodim and Dicamba mixture are utilized to **increase the spectrum of weeds control**.
++ Clethodim and dicamba mixture are utilized to **increase the spectrum of weeds control**.
 
 ---
 ## Objectives
 
-+ To evaluate the effects of Clethodim and Dicamba tank-mixture on GRVC control (F1 generation) at different heights, with and without the use of non-ionic surfactant (NIS).
++ To evaluate the effects of clethodim and dicamba tank-mixture on GRVC control at different heights, with and without the use of non-ionic surfactant (NIS).
 
 ## Hyphotesis
-+ Non-ionic surfactant (NIS) and the height of the plant when sprayed can enhance the control of GRVC when treated with the mixture of clethodim and dicamba.
++ Non-ionic surfactant (NIS) will increase the control of GRVC when treated with the mixture of clethodim and dicamba.
+
++ As the plant height increase will decrease the control of GRVC when treated with the mixture of clethodim and dicamba.
 
 ---
 ## Study desing 
 
-+ Field planted at **Dryland Farm**, North Platte - NE, University of Nebraska-Lincoln/WREECC property, in **2019** and **2020**.
++ Field planted at **Dryland Farm**, North Platte - NE, University of Nebraska-Lincoln/WCREEC, in **2019** and **2020**.
 
-    + 62,500 seeds/ha (25,000 seeds/acre). **(F1 generation)**
+    + 62,500 seeds/ha (25,000 seeds/acre).
 
 + Plants heights: **30 cm** (12 in), **60 cm** (24 in) and **90 cm** (72 in).
 
@@ -85,7 +87,7 @@ host insects and diseases, and contaminate soybean seeds at the harvest.
 
 + The treatments was applied with **backpack CO<sub>2</sub> sprayer** with 6 nozzles
 
-    + **TTI 11002**. 15 GPA (140 L/ha), 40 psi (276 KPa), 3.9 mph (1.74 m/s)
+    + **TTI 11002**.  140 L/ha (15 GPA), 276 KPa (40 psi), 1.74 m/s (3.9 mph).
     
 <div align="center">
 .pull-left[<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/spray.jpg?raw=true" width=275 height= 345>]
@@ -130,9 +132,9 @@ host insects and diseases, and contaminate soybean seeds at the harvest.
 ---
 ## Statistical analysis
 
-+ Biomass data were subjected to **ANOVA test** and means were separated using **Fisher’s LSD test** with **post-hoc test Tukey at α = 0.05**. 
++ Biomass data were subjected to **ANOVA test** and means were separated using **Fisher’s LSD test** with **post-hoc Tukey test at α = 0.05**. 
 
-+ **Colby’s Equation** was used to determine the type of interaction occurred, and the difference between the estimated and obseverd control values was compared by **student`s t test α = 0.05**.
++ **Colby’s Equation** was used to determine the type of interaction occurred, and the difference between the estimated and obseverd control values was compared by **studentized t test α = 0.05**.
 ---
 ### First field trial no NIS - 2019
 <div align="center">

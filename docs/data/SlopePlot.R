@@ -33,9 +33,9 @@ frw = ggplot(data = data1with, aes(x = cm, y =  mass, group =  herbicide, label 
   geom_point(aes(colour =  herbicide), size = 3) +
   geom_label_repel() + 
   scale_colour_manual(values = c("#B2182B", "#D6604D", "#F4A582", "#E0E0E0", "#BABABA", "#878787", "#4D4D4D"
-)) + theme_classic() + theme(title=element_text(size=30),
-                             axis.text = element_text(size=30),
-                             legend.text = element_text(size=30))+
+)) + theme_classic() + theme(title=element_text(size=20),
+                             axis.text = element_text(size=20),
+                             legend.text = element_text(size=20))+
   ylim(0,100)+
   labs(y = "Biomass control (%)",
     colour = "Treatment",
@@ -56,11 +56,11 @@ srw = ggplot(data = data2with, aes(x = cm, y =  mass, group =  herbicide, label 
   geom_point(aes(colour =  herbicide), size = 3) +
   geom_label_repel() + 
   scale_colour_manual(values = c("#B2182B", "#D6604D", "#F4A582", "#E0E0E0", "#BABABA", "#878787", "#4D4D4D"
-  )) + theme_classic() + theme(title=element_text(size=30),
-axis.text = element_text(size=30),
-legend.text = element_text(size=30))+
+  )) + theme_classic() + theme(title=element_text(size=20),
+axis.text = element_text(size=20),
+legend.text = element_text(size=20))+
   ylim(0,100)+
-  labs(y = "Biomass Control (%)",
+  labs(y = "Biomass control (%)",
     colour = "Treatment",
     x = "Plant heigth at application (cm)")
 ggsave("srw.png", plot = srw, dpi = 1200, width = 40, height = 20, units = "cm")
@@ -78,9 +78,9 @@ fro = ggplot(data = data1without, aes(x = cm, y =  mass, group =  herbicide, lab
   geom_point(aes(colour =  herbicide), size = 3) +
   geom_label_repel() + 
   scale_colour_manual(values = c("#B2182B", "#D6604D", "#F4A582", "#E0E0E0", "#BABABA", "#878787", "#4D4D4D"
-  )) + theme_classic() + theme(title=element_text(size=30),
-                               axis.text = element_text(size=30),
-                               legend.text = element_text(size=30))+
+  )) + theme_classic() + theme(title=element_text(size=20),
+                               axis.text = element_text(size=20),
+                               legend.text = element_text(size=20))+
   ylim(0,100)+
   labs(y = "Biomass control (%)",
     colour = "Treatment",
@@ -101,9 +101,9 @@ sro = ggplot(data = data2without, aes(x = cm, y =  mass, group =  herbicide, lab
   geom_point(aes(colour =  herbicide), size = 3) +
   geom_label_repel() + 
   scale_colour_manual(values = c("#B2182B", "#D6604D", "#F4A582", "#E0E0E0", "#BABABA", "#878787", "#4D4D4D"
-  )) + theme_classic() + theme(title=element_text(size=30),
-                               axis.text = element_text(size=30),
-                               legend.text = element_text(size=30))+
+  )) + theme_classic() + theme(title=element_text(size=20),
+                               axis.text = element_text(size=20),
+                               legend.text = element_text(size=20))+
   ylim(0,100)+
   labs(y = "Biomass control (%)",
     colour = "Treatment",
