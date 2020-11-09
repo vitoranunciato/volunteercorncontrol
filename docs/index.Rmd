@@ -43,10 +43,10 @@ xaringanExtra::use_logo(
 <u>Vitor Muller Anunciato</u>, Gabrielle de Castro Macedo, Daniel Araujo Doretto, Jeff A. Golus, Caio A. Carbonari, Greg R. Kruger
 
 .pull-left[
-<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/check.JPG?raw=true" width=450 height= 320>
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/check.JPG?raw=true" width=350 height= 330>
 ]
 .pull-right[
-<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/treated.JPG?raw=true" width=450 height= 320>
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/treated.JPG?raw=true" width=350 height= 330>
 ]
 ---
 ## Introduction
@@ -128,7 +128,7 @@ host insects and diseases, and contaminate soybean seeds at the harvest.
 
 + Biomass data were subjected to **ANOVA test** and means were separated using **Fisher’s LSD test** with **post-hoc test Tukey at α = 0.05**. 
 
-+ **Colby’s Equation** was used to determine the type of interaction occurred, and the difference between the estimated and obseverd control values was compared by **t student test α = 0.05**.
++ **Colby’s Equation** was used to determine the type of interaction occurred, and the difference between the estimated and obseverd control values was compared by **student`s t test α = 0.05**.
 ---
 ### First field trial no NIS - 2019
 <div align="center">
