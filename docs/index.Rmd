@@ -86,8 +86,13 @@ host insects and diseases, and contaminate soybean seeds at the harvest.
 + The treatments was applied with **backpack CO<sub>2</sub> sprayer** with 6 nozzles
 
     + **TTI 11002**. 15 GPA (140 L/ha), 40 psi (276 KPa), 3.9 mph (1.74 m/s)
-<div align="center">
-<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/spray.jpg?raw=true" width=1200 height= 400>
+    
+.pull-left[
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/spray.jpg?raw=true" width=350 height= 330>
+]
+.pull-right[
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/tall.jpg?raw=true" width=350 height= 330>
+]
 ---
 ## Treatments
 .pull-left[
