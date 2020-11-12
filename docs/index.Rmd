@@ -34,7 +34,7 @@ style_mono_accent(
 xaringanExtra::use_logo(
   image_url = "https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/patlablogo.png?raw=true",
   link_url = "http://slides.yihui.name/xaringan",
-  position = xaringanExtra::css_position(bottom = "2em", right = "1em")
+  position = xaringanExtra::css_position(bottom = "1em", right = "1em")
 )
 ```
 
@@ -42,12 +42,8 @@ xaringanExtra::use_logo(
 
 <u>Vitor Muller Anunciato</u>, Gabrielle de Castro Macedo, Daniel Araujo Doretto, Jeff A. Golus, Caio A. Carbonari, Greg R. Kruger
 
-.pull-left[
-<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/check.JPG?raw=true" width=350 height= 330>
-]
-.pull-right[
-<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/treated.JPG?raw=true" width=350 height= 330>
-]
+<div align="center">
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/checkcontrol.png?raw=true" width=1200 height= 500>
 ---
 ## Introduction
 
