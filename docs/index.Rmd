@@ -135,6 +135,10 @@ host insects and diseases, and contaminate soybean seeds at the harvest.
 + Biomass data were subjected to **ANOVA test** and means were separated using **Fisher’s LSD test** with **post-hoc Tukey test at α = 0.05**. 
 
 + **Colby’s Equation** was used to determine the type of interaction occurred, and the difference between the estimated and obseverd control values was compared by **studentized t test α = 0.05**.
+
+```math
+a^2+b^2=c^2
+```
 ---
 ### First field trial no NIS - 2019
 <div align="center">
@@ -153,14 +157,11 @@ host insects and diseases, and contaminate soybean seeds at the harvest.
 <img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/srw.png?raw=true" width=1200 height= 500>
 ---
 ### Example - plants 60 cm 28DAT.
-**Clethodim 102 g ai/ha**
-<div align="center">
-<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/c102_60cm.JPG?raw=true" width=450 height= 500>
----
-### Example - plants 60 cm 28DAT.
-**Clethodim 102 g ai/ha + Dicamba 560 g ae/ha**
-<div align="center">
-<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/cd102_60cm.JPG?raw=true" width=450 height= 500>
+.pull-left[**Clethodim 102**
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/c102_60cm.JPG?raw=true" width=500 height= 500>]
+.pull-right[
+**Clethodim 102 + Dicamba 560**
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/cd102_60cm.JPG?raw=true" width=500 height= 500>]
 ---
 ### 30 cm
 <div align="center">
