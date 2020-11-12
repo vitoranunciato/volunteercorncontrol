@@ -9,7 +9,7 @@ library(formattable)
 
 
 # 30 cm
-corn30 <- read.csv("C:/Users/vitor/Google Drive/Presentations/Control of volunteer corn/volunteercorncontrol/docs/data/corn30int.csv")
+corn30 <- getURL("https://raw.githubusercontent.com/vitoranunciato/volunteercorncontrol/main/docs/data/corn30int.csv")
 
 corn30 %>%
   mutate(
@@ -46,7 +46,7 @@ corn30 %>%
 
 
 # 60 cm
-corn60 <- read.csv("C:/Users/vitor/Google Drive/Presentations/Control of volunteer corn/volunteercorncontrol/docs/data/corn60int.csv")
+corn60 <- getURL("https://raw.githubusercontent.com/vitoranunciato/volunteercorncontrol/main/docs/data/corn60int.csv")
 
 corn60 %>%
   mutate(
@@ -82,7 +82,7 @@ corn60 %>%
 save_kable("60cm.png", zoom = 3)
 
 # 90 cm
-corn90 <- read.csv("C:/Users/vitor/Google Drive/Presentations/Control of volunteer corn/volunteercorncontrol/docs/data/corn90int.csv")
+corn90 <- getURL("https://raw.githubusercontent.com/vitoranunciato/volunteercorncontrol/main/docs/data/corn90int.csv")
 
 corn90 %>%
   mutate(
