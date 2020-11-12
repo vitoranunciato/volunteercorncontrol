@@ -11,6 +11,7 @@ output:
       highlightLines: true
       countIncrementalSlides: false
 ---
+class:center, hide-logo
 
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
@@ -43,7 +44,12 @@ xaringanExtra::use_logo(
 <u>Vitor Muller Anunciato</u>, Gabrielle de Castro Macedo, Daniel Araujo Doretto, Jeff A. Golus, Caio A. Carbonari, Greg R. Kruger
 
 <div align="center">
-<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/checkcontrol.png?raw=true" width=1200 height= 500>
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/checkcontrol.png?raw=true" width=1200 height= 350>
+<div align="left">
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/ncwsslogo.jpg?raw=true" width=100 height= 100>
+---
+#<div align="right">
+#<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/patlablogo.png?raw=true" width=100 height= 100>
 ---
 ## Introduction
 
