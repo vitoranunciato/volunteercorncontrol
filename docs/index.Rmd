@@ -34,7 +34,7 @@ style_mono_accent(
 xaringanExtra::use_logo(
   image_url = "https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/patlablogo.png?raw=true",
   link_url = "http://slides.yihui.name/xaringan",
-  position = xaringanExtra::css_position(bottom = "1em", right = "1em")
+  position = xaringanExtra::css_position(bottom = "2em", right = "1em")
 )
 ```
 
@@ -157,11 +157,8 @@ a^2+b^2=c^2
 <img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/srw.png?raw=true" width=1200 height= 500>
 ---
 ### Example - plants 60 cm 28DAT.
-.pull-left[**Clethodim 102**
-<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/c102_60cm.JPG?raw=true" width=500 height= 500>]
-.pull-right[
-**Clethodim 102 + Dicamba 560**
-<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/cd102_60cm.JPG?raw=true" width=500 height= 500>]
+<div align="center">
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/comparecontrol.png?raw=true" width=1200 height= 500>
 ---
 ### 30 cm
 <div align="center">
