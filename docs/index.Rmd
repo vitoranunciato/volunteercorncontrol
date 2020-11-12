@@ -94,42 +94,9 @@ host insects and diseases, and contaminate soybean seeds at the harvest. [(Marqu
 <div align="center">
 <img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/mm.png?raw=true" width=600 height= 400>
 ---
-## Treatments
-.pull-left[
-**No R11 (NIS) in mixture**
-
-**1.** Clethodim 76 g ai/ha
-
-**2.** Clethodim 102 g ai/ha
-
-**3.** Clethodim  136 g ai/ha
-
-**4.** Clethodim 76 g ai/ha + Dicamba 560 g ae/ha
-
-**5.** Clethodim 102 g ai/ha + Dicamba 560 g ae/ha
-
-**6.** Clethodim 136 g ai/ha + Dicamba 560 g ae/ha
-
-**7.** Dicamba 560 g ae/ha]
-
-.pull-right[
-**With R11 (NIS) in mixture 0.25% v/v**
-
-**8.** Clethodim 76 g ai/ha
-
-**9.** Clethodim 102 g ai/ha
-
-**10.** Clethodim  136 g ai/ha
-
-**11.** Clethodim 76 g ai/ha + Dicamba 560 g ae/ha
-
-**12.** Clethodim 102 g ai/ha + Dicamba 560 g ae/ha
-
-**13.** Clethodim 136 g ai/ha + Dicamba 560 g ae/ha
-
-**14.** Dicamba 560 g ae/ha]
-
-+ **All solutions with DRA (Intact) at 0.5% v/v**
+### Treatments
+<div align="center">
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/trt.png?raw=true" width=600 height= 550>
 ---
 ## Statistical analysis
 
