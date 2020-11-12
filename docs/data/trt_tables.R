@@ -22,5 +22,6 @@ trt %>%
   row_spec(0, bold = T, color = "#f5f1e7", background = "#d00000")%>%
   pack_rows("No NIS*", 1, 7) %>%
   pack_rows("Add+ NIS*", 8, 14) %>%
-  footnote(symbol = c("NIS (Non Ionic Surfactant)."))%>%
-  save_kable("trt.png", zoom = 3)
+  footnote(general = "All solutions with DRA at 0.5% v/v",
+           symbol = c("NIS = Non Ionic Surfactant."))%>%
+    save_kable("trt.png", zoom = 3)
