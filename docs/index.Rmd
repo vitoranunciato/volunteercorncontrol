@@ -34,7 +34,7 @@ style_mono_accent(
 ```{r echo=FALSE, warning=FALSE}
 xaringanExtra::use_logo(
   image_url = "https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/patlablogo.png?raw=true",
-  link_url = "http://slides.yihui.name/xaringan",
+  link_url = "https://pat.unl.edu/",
   position = xaringanExtra::css_position(bottom = "1em", right = "1em")
 )
 ```
@@ -44,7 +44,7 @@ xaringanExtra::use_logo(
 <u>Vitor Muller Anunciato</u>, Gabrielle de Castro Macedo, Daniel Araujo Doretto, Jeff A. Golus, Caio A. Carbonari, Greg R. Kruger
 
 <div align="center">
-<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/checkcontrol.png?raw=true" width=1200 height= 350>
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/checkcontrol.png?raw=true" width=700 height= 350>
 <div align="left">
 <img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/ncwsslogo.jpg?raw=true" width=100 height= 100>
 ---
@@ -53,14 +53,14 @@ xaringanExtra::use_logo(
 ---
 ## Introduction
 
-+ **Glyphosate Resistant Volunteer Corn** (GRVC) is a common weed in soybean fields.
++ **Glyphosate Resistant Volunteer Corn** (GRVC) is a common weed in soybean fields [(Tao B. et al 2007)](https://bioone.org/journals/Weed-Technology/volume-21/issue-1/WT-05-193.1/Efficacy-of-Glyphosate-Plus-Bentazon-or-Quizalofop-on-Glyphosate-Resistant/10.1614/WT-05-193.1.short).
 
 + Can reduce soybean yield through competition, cause problems with harvest,
-host insects and diseases, and contaminate soybean seeds at the harvest.
+host insects and diseases, and contaminate soybean seeds at the harvest. [(Marquardt, P. T., & Johnson, W. G. 2013)](https://bioone.org/journals/weed-technology/volume-27/issue-4/WT-D-12-00188.1/Influence-of-Clethodim-Application-Timing-on-Control-of-Volunteer-Corn/10.1614/WT-D-12-00188.1.short).
 
-+ **Clethodim** (WSSA Group 1) used in grass control in postemergence applications. However, **antagonistic interactions** have been reported when applied in **tank-mixtures with synthetic auxins** (WSSA Group 4).
++ **Clethodim** (WSSA Group 1) used in grass control in postemergence applications. However, **antagonistic interactions** have been reported when applied in **tank-mixtures with synthetic auxins** (WSSA Group 4). [(Blackshaw et al. 2006](https://www.cambridge.org/core/journals/weed-technology/article/broadleaf-herbicide-effects-on-clethodim-and-quizalofopp-efficacy-on-volunteer-wheat-triticum-aestivum/7BDD2D11DC2EA18A84774047D3A5AB8C); [Harre et al. 2020).](https://www.cambridge.org/core/journals/weed-technology/article/influence-of-24d-dicamba-and-glyphosate-on-clethodim-efficacy-of-volunteer-glyphosateresistant-corn/980D8BDC2427B5A22BF7597C8037B827)
 
-+ Clethodim and dicamba mixture are utilized to **increase the spectrum of weeds control**.
++ Clethodim and dicamba mixture are utilized to **increase the spectrum of weeds control**. [Underwood, M. G et al. 2016](https://www.jstor.org/stable/24856044?casa_token=3K7Vk94DHTgAAAAA%3AVvtWbfV7HNwjkvjG-p-h93_JriMsPbWCi4r2rMg6Fyvsnme37jlxG3w5vLnUmh8fvNKYvq3emknzcuUQmCHBV404awtG_T_xOik8F3CL78c7_wkTYXqf&seq=8#metadata_info_tab_contents)
 
 ---
 ## Objectives
@@ -135,11 +135,11 @@ host insects and diseases, and contaminate soybean seeds at the harvest.
 
 + Biomass data were subjected to **ANOVA test** and means were separated using **Fisher’s LSD test** with **post-hoc Tukey test at α = 0.05**. 
 
-+ **Colby’s Equation** was used to determine the type of interaction occurred, and the difference between the estimated and obseverd control values was compared by **studentized t test α = 0.1**.
++ **Colby’s Equation** was used to determine the type of interaction occurred [Colby, S. R. (1967)](https://www.jstor.org/stable/4041058?seq=1#metadata_info_tab_contents). And the difference between the estimated and obseverd control values was compared by **studentized t test α = 0.1**.
 
 <div align="center">
 ```math
-E = (X*Y)/100
+E = (X+Y) - (X*Y)/100
 ```
 <div align="left">
 
@@ -148,10 +148,10 @@ E = (X*Y)/100
 
 +  The **Observed control** for the herbicide mixture is then compared to the **E = expected control**.
   + <u>**If p value > 0.1**</u>
-      + Obs **greater** Exp = **synergism**
-      + Obs **less** Exp = **antagonism**
+      + Obs **greater** Exp = SYNERGISM
+      + Obs **less** Exp = ANTAGONISTIC
   + <u>**If p value ≥ 0.1**</u>
-      +  **additive**
+      +  ADDITIVE
 
 ---
 ### First field trial no NIS - 2019
@@ -171,8 +171,8 @@ E = (X*Y)/100
 <img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/srw.png?raw=true" width=1200 height= 500>
 ---
 ### Example - plants 60 cm 28DAT.
-<div align="center">
-<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/comparecontrol.png?raw=true" width=1200 height= 500>
+<div align="left">
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/comparecontrol.png?raw=true" width=718 height= 500>
 ---
 ### 30 cm
 <div align="center">
@@ -185,6 +185,9 @@ E = (X*Y)/100
 ### 90 cm
 <div align="center">
 <img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/90cm.png?raw=true" width=1200 height= 400>
+---
+## Discussion
++ The mixture of 
 ---
 ## Conclusion
 + The mixture tends to be antagonistic independent of the presence or absence of the NIS.
@@ -205,6 +208,16 @@ The best results for controlling GR volunteer corn are obtained in plants up to 
 #Thank you
 ---
 ## References
-+ Colby, S. R. 1967.  Calculating Synergistic and Antagonistic Responses of Herbicide Combinations.  Weeds.  15: 20‐22
++ Tao, B., Zhou, J., Messersmith, C. G., & Nalewaja, J. D. (2007). Efficacy of glyphosate plus bentazon or quizalofop on glyphosate-resistant canola or corn. Weed Technology, 21(1), 97-101.
+
++ Marquardt, P. T., & Johnson, W. G. (2013). Influence of clethodim application timing on control of volunteer corn in soybean. Weed Technology, 27(4), 645-648.
+
++ Blackshaw, R. E., Harker, K. N., Clayton, G. W., & O'Donovan, J. T. (2006). Broadleaf herbicide effects on clethodim and quizalofop-P efficacy on volunteer wheat (Triticum aestivum). Weed technology, 20(1), 221-226.
+
++ Harre, N. T., Young, J. M., & Young, B. G. (2020). Influence of 2, 4-D, dicamba, and glyphosate on clethodim efficacy of volunteer glyphosate-resistant corn. Weed Technology, 34(3), 394-401.
+
++ Underwood, M. G., Soltani, N., Hooker, D. C., Robinson, D. E., Vink, J. P., Swanton, C. J., & Sikkema, P. H. (2016). The addition of dicamba to POST applications of quizalofop-p-ethyl or clethodim antagonizes volunteer glyphosate-resistant corn control in dicamba-resistant soybean. Weed Technology, 639-647.
+
++ Colby, S. R. (1967). Calculating synergistic and antagonistic responses of herbicide combinations. Weeds, 15(1), 20-22.
 
 
