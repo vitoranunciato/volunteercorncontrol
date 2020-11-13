@@ -9,9 +9,12 @@ library(ggrepel)
 library(kableExtra)
 library(RColorBrewer)
 library(ggpubr)
+library(RCurl)
+
 
 ### Data ###
-data_field = read.csv("C:/Users/vitor/Google Drive/Presentations/Control of volunteer corn/volunteercorncontrol/docs/data/control.csv")
+data_field = getURL("https://raw.githubusercontent.com/vitoranunciato/volunteercorncontrol/main/docs/data/control.csv")
+data_field = read.csv(text = data_field)
 
 
 df.summary <- data_field %>%
