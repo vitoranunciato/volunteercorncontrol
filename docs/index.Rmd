@@ -94,7 +94,7 @@ host insects and diseases, and contaminate soybean seeds at the harvest. [(Marqu
 ---
 ### Treatments
 <div align="center">
-<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/trt.png?raw=true" width=600 height= 550>
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/trt.png?raw=true" width=800 height= 400>
 ---
 ## Statistical analysis
 
