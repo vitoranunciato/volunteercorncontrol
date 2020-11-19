@@ -43,21 +43,22 @@ xaringanExtra::use_logo(
 
 [Vitor Muller Anunciato](https://serialweedkiller.netlify.app/), Gabrielle de Castro Macedo, Daniel Araujo Doretto, Jeff A. Golus, Caio A. Carbonari, Greg R. Kruger
 
-
-<div align="bottom">
+<div align="center">
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/checkcontrol.png?raw=true" width=700 height= 350>
+<div align="left">
 <img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/ncwsslogo.jpg?raw=true" width=100 height= 100>
 
 ---
 ## Introduction
 
-+ **Glyphosate Resistant Volunteer Corn** (GRVC) is a common weed in soybean fields [(Tao B. et al 2007)](https://bioone.org/journals/Weed-Technology/volume-21/issue-1/WT-05-193.1/Efficacy-of-Glyphosate-Plus-Bentazon-or-Quizalofop-on-Glyphosate-Resistant/10.1614/WT-05-193.1.short).
++ **Glyphosate Resistant Volunteer Corn** (GRVC) is a common weed in soybean fields [(Tao B. et al. 2007)](https://bioone.org/journals/Weed-Technology/volume-21/issue-1/WT-05-193.1/Efficacy-of-Glyphosate-Plus-Bentazon-or-Quizalofop-on-Glyphosate-Resistant/10.1614/WT-05-193.1.short).
 
 + Can reduce soybean yield through competition, cause problems with harvest,
 host insects and diseases, and contaminate soybean seeds at the harvest. [(Marquardt, P. T., & Johnson, W. G. 2013)](https://bioone.org/journals/weed-technology/volume-27/issue-4/WT-D-12-00188.1/Influence-of-Clethodim-Application-Timing-on-Control-of-Volunteer-Corn/10.1614/WT-D-12-00188.1.short).
 
 + **Clethodim** (WSSA Group 1) used in grass control in postemergence applications. However, **antagonistic interactions** have been reported when applied in **tank-mixtures with synthetic auxins** (WSSA Group 4). [(Blackshaw et al. 2006](https://www.cambridge.org/core/journals/weed-technology/article/broadleaf-herbicide-effects-on-clethodim-and-quizalofopp-efficacy-on-volunteer-wheat-triticum-aestivum/7BDD2D11DC2EA18A84774047D3A5AB8C); [Harre et al. 2020).](https://www.cambridge.org/core/journals/weed-technology/article/influence-of-24d-dicamba-and-glyphosate-on-clethodim-efficacy-of-volunteer-glyphosateresistant-corn/980D8BDC2427B5A22BF7597C8037B827)
 
-+ Clethodim and dicamba mixture are utilized to **increase the spectrum of weeds control**. [Underwood, M. G et al. 2016](https://www.jstor.org/stable/24856044?casa_token=3K7Vk94DHTgAAAAA%3AVvtWbfV7HNwjkvjG-p-h93_JriMsPbWCi4r2rMg6Fyvsnme37jlxG3w5vLnUmh8fvNKYvq3emknzcuUQmCHBV404awtG_T_xOik8F3CL78c7_wkTYXqf&seq=8#metadata_info_tab_contents)
++ Clethodim and dicamba mixture are utilized to **increase the spectrum of weeds control**. [(Underwood, M. G. et al. 2016).](https://www.jstor.org/stable/24856044?casa_token=3K7Vk94DHTgAAAAA%3AVvtWbfV7HNwjkvjG-p-h93_JriMsPbWCi4r2rMg6Fyvsnme37jlxG3w5vLnUmh8fvNKYvq3emknzcuUQmCHBV404awtG_T_xOik8F3CL78c7_wkTYXqf&seq=8#metadata_info_tab_contents)
 
 ---
 ## Objectives
@@ -157,7 +158,19 @@ E = (X+Y) - (X*Y)/100
 ---
 ### Example - plants 60 cm 28DAT.
 <div align="left">
-<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/comparecontrol.png?raw=true" width=718 height= 500>
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/checkdicamba.png?raw=true" width=716 height= 500>
+---
+### Example - plants 60 cm 28DAT.
+<div align="left">
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/clethodim76dicamba.png?raw=true" width=716 height= 500>
+---
+### Example - plants 60 cm 28DAT.
+<div align="left">
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/clethodim102dicamba.png?raw=true" width=716 height= 500>
+---
+### Example - plants 60 cm 28DAT.
+<div align="left">
+<img src="https://github.com/vitoranunciato/volunteercorncontrol/blob/main/docs/imagens/clethodim136dicamba.png?raw=true" width=716 height= 500>
 ---
 ## Conclusion
 + The mixture tends to be antagonistic independent of the presence or absence of the NIS.
